@@ -2,7 +2,7 @@
   "author": "Richard Silver <richard@silver.sh> (silver.sh)",
   "name": "react-native-expo-crypto",
   "description": "implementation of crypto for React Native in expo",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "homepage": "https://github.com/themotu/react-native-expo-crypto",
   "repository": {
     "type": "git",
@@ -29,7 +29,7 @@
     "typedarray-to-buffer": "^4.0.0"
   },
   "peerDependencies": {
-    "expo-random": "^10.0.0"
+    "expo-random": "^11.2.0"
   },
   "devDependencies": {
     "hash-test-vectors": "~1.3.2",
